@@ -19,6 +19,7 @@ function createGrid() {
     const square = document.createElement('div')
     //add styling to the element
     square.classList.add('square')
+    square.classList.add('center')
     //put the element into our grid
     grid.appendChild(square)
     //push it into a new squares array    

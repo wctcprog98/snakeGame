@@ -24,3 +24,16 @@ body {
 .apple {
     background: red;
 }
+
+.grid {
+    text-align: center;
+}
+
+#center {
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+    right: 580px;
+}
